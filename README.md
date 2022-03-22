@@ -1,5 +1,7 @@
 # sensitivity-analysis
 Step to run
-0. conda create -n streamlit
-1. pip install -r requirements.txt
-2. streamlit run app.py
+
+
+1. conda create -n streamlit
+2. pip install -r requirements.txt
+3. streamlit run app.py
